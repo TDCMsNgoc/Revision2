@@ -1,5 +1,5 @@
 /**
- * PHẦN MỀM TRẮC NGHIỆM TIẾNG ANH - REVISION 2 (40 CÂU NGẪU NHIÊN)
+ * PHẦN MỀM TRẮC NGHIỆM TIẾNG ANH - REVISION 2
  * Trường Cao đẳng Công nghệ Thủ Đức (TDC)
  * 
  * Các tính năng chính:

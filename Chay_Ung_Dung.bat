@@ -1,5 +1,5 @@
 @echo off
-title TDC English Quiz - Revision 2 (40 Cau Ngau Nhien)
+title TDC English Quiz - Revision 2
 color 0a
 echo ==========================================================
 echo  DANG KHOI CHAY UNG DUNG TRAC NGHIEM REVISION 2 (TDC)

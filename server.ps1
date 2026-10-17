@@ -38,7 +38,7 @@ try {
 } catch {}
 
 Write-Host "==========================================================" -ForegroundColor Cyan
-Write-Host " PHAN MEM TRAC NGHIEM 40 CAU NGAU NHIEN - REVISION 2 (TDC)" -ForegroundColor Green
+Write-Host " PHAN MEM TRAC NGHIEM REVISION 2 (TDC)" -ForegroundColor Green
 Write-Host " May tinh (Desktop): $prefix" -ForegroundColor Yellow
 Write-Host " Dien thoai / iPad : http://$($localIP):$Port/" -ForegroundColor Yellow
 Write-Host " Thu muc: $root" -ForegroundColor Gray

@@ -1,4 +1,4 @@
-# PHẦN MỀM TRẮC NGHIỆM TIẾNG ANH: REVISION 2 (40 CÂU NGẪU NHIÊN)
+# PHẦN MỀM TRẮC NGHIỆM TIẾNG ANH: REVISION 2
 ### TRƯỜNG CAO ĐẲNG CÔNG NGHỆ THỦ ĐỨC (TDC)
 
 Phần mềm ôn tập và kiểm tra trắc nghiệm tiếng Anh tổng hợp 40 câu hỏi ngẫu nhiên từ ngân hàng **100 câu hỏi có sẵn** thuộc **5 chuyên đề ngữ pháp cốt lõi**:
